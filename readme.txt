@@ -1,18 +1,1 @@
-PSEUDOCODE SEGITIGA ANGKA
-START
-FOR i FROM 7 DOWN TO 1 DO
-FOR j FROM 1 TO i DO
-PRINT j WITH SPACE
-END FOR
-PRINT NEW LINE
-END FOR
-flow chart : https://drive.google.com/file/d/168TlwOgolUJUw7UCdummzZ5ujgujegy3/view?usp=sharing
 
-PSEUCODE SEGITIGA BINTANG
-START
-FUNCTION print_pattern
-FOR i FROM 0 TO 6 DO
-PRINT
-END FOR
-END FUNCTION
-CALL print_pattern
